@@ -1,0 +1,11 @@
+.DS_Store
+
+application-3.0.3/cache/*
+!application-3.0.3/cache/index.html
+!application-3.0.3/cache/.htaccess
+
+application-3.0.3/logs/*
+!application-3.0.3/logs/index.html
+!application-3.0.3/logs/.htaccess
+
+/vendor/
